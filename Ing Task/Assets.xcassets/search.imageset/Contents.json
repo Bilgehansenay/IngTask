@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "RauntFont-Icon 1x dark.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
